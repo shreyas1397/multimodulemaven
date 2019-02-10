@@ -10,7 +10,7 @@
     </parent>
 
     <artifactId>app</artifactId>
-    <name>app</name>
+    <name>app1</name>
     <packaging>war</packaging>
 
     <dependencies>
